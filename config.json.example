@@ -1,0 +1,34 @@
+{
+	"repo": "/path/to/repo",
+	
+	"limit": 100000,
+
+	"prefix": "refs/remotes/origin/",
+
+	"refs": [
+		"master"
+	],
+
+	"exts": [
+		".py",
+		".js",
+		".css",
+		".html"
+	],
+
+	"ignore": [
+		"jquery",
+		"underscore",
+		"backbone"
+	],
+
+	"watch": [
+		"project/",
+		"srcv/"
+	],
+
+	"merge": [
+		"Merge branch",
+		"Merge remote"
+	]
+}
