@@ -24,7 +24,7 @@
 
 	"watch": [
 		"project/",
-		"srcv/"
+		"src/"
 	],
 
 	"merge": [
